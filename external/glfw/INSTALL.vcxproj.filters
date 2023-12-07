@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\CMakeFiles\6c99d67f863da2f5f508b5dbc98774e5\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D0770E5C-92F5-37BC-918E-BFAD23A3FD42}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

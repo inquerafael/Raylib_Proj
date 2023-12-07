@@ -1,0 +1,6 @@
+﻿  Snake_inque.cpp
+C:\Users\Administrator\source\repos\Snake_inque\Snake_inque.cpp(92,67): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Administrator\source\repos\Snake_inque\Snake_inque.cpp(92,36): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Administrator\source\repos\Snake_inque\Snake_inque.cpp(96,17): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Administrator\source\repos\Snake_inque\Snake_inque.cpp(97,17): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+  Snake_inque.vcxproj -> C:\Users\Administrator\source\repos\Snake_inque\x64\Debug\Snake_inque.exe
