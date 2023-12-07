@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\src\rcore.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\src\rmodels.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\src\rshapes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\src\rtext.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\src\rtextures.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\src\utils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\src\raudio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\src\raylib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\src\rlgl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\src\raymath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\input.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\monitor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\platform.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\vulkan.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\window.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\egl_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\osmesa_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\null_init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\null_monitor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\null_window.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\null_joystick.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_module.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_time.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_thread.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_joystick.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_monitor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_window.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\wgl_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8731D0F8-A0D5-30AC-946F-9026D07FF3DC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{44E30756-1CD3-3159-B584-A0C4EC1B4C8E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0800D122-6A77-38B2-AF6F-A9C4DC5A176D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

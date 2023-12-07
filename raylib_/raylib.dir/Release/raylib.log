@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/Users/Administrator/Desktop/Prorojetos_raylib_vs_vscode_replit_git/raylib-master/src/CMakeLists.txt
+  rcore.c
+  rmodels.c
+  rshapes.c
+  rtext.c
+  rtextures.c
+  utils.c
+  raudio.c
+  Gerando Código...
+  raylib.vcxproj -> C:\Users\Administrator\Desktop\Prorojetos_raylib_vs_vscode_replit_git\raylib-master\build\raylib\Release\raylib.lib
